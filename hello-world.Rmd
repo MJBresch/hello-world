@@ -1,6 +1,9 @@
 ---
 title: "Hello World"
-output: html_document
+output: github_document 
+author: "Midoli Bresch"
+date: "2019-11-13"
+   
 ---
 
 ```{r setup, include=FALSE}
